@@ -10,9 +10,7 @@ A modern, responsive payment gateway interface built with React, TypeScript, and
 - Responsive design for all device sizes
 - Built with React 18, TypeScript, and Tailwind CSS
 
-## Screenshots
 
-![Payment Gateway Screenshot](https://images.pexels.com/photos/6956305/pexels-photo-6956305.jpeg?auto=compress&cs=tinysrgb&w=400)
 
 ## Getting Started
 
