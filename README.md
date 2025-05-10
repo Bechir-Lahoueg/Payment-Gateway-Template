@@ -75,7 +75,7 @@ src/
 
 MIT
 
-## Acknowledgments
+## Acknowledgment
 
 - Design inspiration from modern payment gateways
 - Icons provided by Lucide React
